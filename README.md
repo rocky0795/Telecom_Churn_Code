@@ -108,8 +108,7 @@ print("Churn Prediction:", "Churn" if prediction[0] == 1 else "Not Churn")
 │── 📄 README.md                <- Project documentation
 │── 📄 Telecom_Churn_Prediction.ipynb  <- Jupyter Notebook with analysis & modeling
 │── 📄 telecom_churn_model.pkl   <- Final trained model
-│── 📄 telecom_churn_data.csv   <- Dataset
-│── 📄 classification_report.csv   <- Classification Report
+│── 📄 Telecom Churn Prediction & Business Recommendations.pdf
 ```
 
 ## 🎯 Future Improvements
